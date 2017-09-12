@@ -4,6 +4,7 @@ My primary goal is to learn the underlying skills and tools necessary to be succ
 This represents a career shift for me into an area of IT that I am both excited and passionate about.
 However, passion alone will not ensure success. My primary knowledge is on the Ops side, so I need exposure and development in Dev.
 This will involve:
+
 	- Learning to use tools which are specific and non-specific to my current company
 		-- Bitbucket
 		-- Git
