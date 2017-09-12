@@ -25,3 +25,7 @@ Small edits using VSCode
 	change1
 	change2
 Done with changes
+
+Second set of changes
+	commit this
+Done again
