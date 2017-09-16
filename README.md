@@ -21,11 +21,3 @@ This will involve:
 
 As I explore these initial areas, I expect that I will discover additional skills and knowledge I had not foreseen, and I will need to remain adaptable and open to experimentation (which sounds awesome).
 
-Small edits using VSCode
-	change1
-	change2
-Done with changes
-
-Second set of changes
-	commit this
-Done again
